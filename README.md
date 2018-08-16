@@ -23,4 +23,4 @@ the tool have two diffrent operation read serial and write serial data
 
      node index.js -p [path of the serial port] -b [baud rate] -w
 
-    ![alt text](https://github.com/enggb/nodeSerialComm/blob/master/image/write.png)
+   ![alt text](https://github.com/enggb/nodeSerialComm/blob/master/image/write.png)
