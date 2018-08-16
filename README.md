@@ -16,6 +16,9 @@ the tool have two diffrent operation read serial and write serial data
 
      node index.js -p [path of the serial port] -b [baud rate] -r
      
+   ![Screenshot](imges/read.png)
+     
+     
 ### Serial Write
 
      node index.js -p [path of the serial port] -b [baud rate] -w
