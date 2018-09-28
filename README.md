@@ -26,4 +26,5 @@ the tool have two diffrent operation read serial and write serial data
    ![alt text](https://github.com/enggb/nodeSerialComm/blob/master/image/write.png)
    
    
-   ![alt text](https://github.com/enggb/nodeSerialComm/blob/master/image/write.png)
+  <img width="472" alt="screen shot 2018-09-28 at 4 42 34 pm" src="https://user-images.githubusercontent.com/29475903/46206692-7d2a9280-c342-11e8-9991-5b3edbbed860.png">
+
